@@ -1,0 +1,113 @@
+@media screen and (max-width: 1024px)
+{
+  .container > .row { margin: 0px; }
+  .container { width: 100%;  }
+  .nav-tabs { padding-left: 15px; }
+  .nav-tabs>li { margin-right: 23px; }
+  .nav-tabs>li:last-child { margin-right: 0px; }
+  .nav-tabs>li>a, .nav-tabs>li>a:focus, .nav-tabs>li>a:hover { font-size: 16px; }
+  .right_about_btn h5 { font-size: 13px; }
+  .inner_content .election_menu .box-body h5 {font-size: 12px;}
+  .inner_content .election_menu .box-body span {font-size: 15px;}
+  .inner_content .election_menu .box p {font-size: 14px;}
+}
+@media screen and (max-width: 980px)
+{
+  .nav-tabs>li { margin-right: 18px;}
+  .inner_content .election_menu .box-body h5 {padding: 8px 6px;}
+}
+@media screen and (max-width: 800px)
+{
+  .org_title {line-height: 20px;font-size: 14px;}
+  .inner_organization .page-title { margin-bottom: 10px;padding: 0px; }
+  #mymap {height: 300px !important;}
+  .org_filter { display: block; }
+  .desktop_tab { display: none; }
+  .tab_filter_btn .nav-tabs>li { display: block;float: left;width: 100%; text-align: left; }
+  .inner_content .election_menu .box-body div{ height: 150px; }
+}
+@media screen and (max-width: 767px)
+{
+  .organization_left { display: none; margin-bottom: 20px; height:inherit;float: left;width: 100%; }
+  .organization_right { border-left: none;float: left; width: 100%; }
+  .org_title {height: 40px;}
+  .image_main {margin-bottom:20px;}
+  .btn-filter { display: block; margin-bottom: 20px; }
+  .item-list { padding-left: 15px; }
+  .treeview-menu { padding-left: 10px; }
+  .inner_organization .org_title { width: 100%; }
+  .menu-bar.row { padding-top: 0px; }
+  .inner_content .election_menu .box-body div { min-height: 100px; height: auto;}
+  .inner_content .election_menu .box-body h5 { margin: 4% 1% 0px 0; padding: 8px 17px;}
+  .inner_content .election_menu .box p { font-size: 16px;}
+  .inner_content .election_menu .box-body h5 {font-size: 14px;}
+}
+@media screen and (max-width: 736px)
+{
+
+}
+@media screen and (max-width: 667px)
+{
+
+}
+@media screen and (max-width: 640px)
+{
+
+}
+@media screen and (max-width: 600px)
+{
+  .org_title {height: 60px;}
+  .org_inner_right {min-height: 250px;}
+  .menu_filter {width: 50%;font-size: 16px;display:inline-block;float: left;margin: 0px;padding: 13px 0;color: #004a83; background: #fff !important;  }
+  .main_menu,  .submenu_div { display: none; height: inherit; }
+  .responsive_menu { font-size: 16px;margin: 0px;padding: 0px 0;color: #004a83; background: #004a83  !important; }
+  .menu_filter {width:100%;font-size: 17px;text-transform: capitalize; display: inline-block; float: left; margin: 0px; padding: 18px 0px; color: #ffffff;box-shadow: none !important; background: none !important;}
+  .menu_filter i { font-size: 21px; }
+  .register_button { display: none; }
+  .logo_left { float: right;width: 32%; }
+  .top-bar-right { float: left; padding-top: 3px; }
+  .logo_area {height: 64px;}
+  .responsive_menu .menu_link {float: left; color: #fefeff;  font-weight: 500;font-size: 18px;width: 100%;text-align: left; padding: 0px; line-height: 40px; height: auto;}
+  .responsive_menu .menu_link.is-active, .responsive_menu .menu_link:hover {color: #ffffff !important; text-decoration: none;}
+}
+@media screen and (max-width: 568px)
+{
+  .organization_right .col-xs-6 { width: 100%; }
+  .org_title { height: auto; }
+  .org_inner_right { min-height: inherit; max-height: inherit; }
+  .page-title {font-size: 25px;padding-left: 20px;padding-right: 20px;}
+  .right_about_btn h5, .right_about_btn h5:nth-child(2n+2) { width: 44%; }
+  .org_about { padding: 10px; }
+  .right_about_btn h5 {margin: 2% 2% 0px 0;}
+}
+@media screen and (max-width: 536px)
+{
+
+}
+@media screen and (max-width: 480px)
+{
+  .logo_left {width: 40%;}
+}
+@media screen and (max-width: 414px)
+{
+  .logo_left { width: 47%;}
+  .page-title {font-size: 18px;padding-left: 0; padding-right: 0;}
+  .box {padding: 25px;}
+  .inner_box_body { padding: 20px; }
+}
+@media screen and (max-width: 375px)
+{
+  .register_button li a.button {font-size: 12px;padding: 7.5px 11px;}
+  .register_button li a {color: #fff; font-size: 13px;padding: 8.5px 12px; }
+}
+@media screen and (max-width: 360px)
+{
+  .logo_left {width: 54%;}
+}
+@media screen and (max-width: 320px)
+{
+  .logo_left {width: 60%;}
+}
+
+
+
