@@ -10,6 +10,7 @@
   .inner_content .election_menu .box-body h5 {font-size: 12px;}
   .inner_content .election_menu .box-body span {font-size: 15px;}
   .inner_content .election_menu .box p {font-size: 14px;}
+  .organization_right.people .col-sm-4 { width: 33.33%;}
 }
 @media screen and (max-width: 980px)
 {
@@ -69,6 +70,7 @@
   .logo_area {height: 64px;}
   .responsive_menu .menu_link {float: left; color: #fefeff;  font-weight: 500;font-size: 18px;width: 100%;text-align: left; padding: 0px; line-height: 40px; height: auto;}
   .responsive_menu .menu_link.is-active, .responsive_menu .menu_link:hover {color: #ffffff !important; text-decoration: none;}
+  .organization_right.people .col-sm-4 {width: 50%;}
 }
 @media screen and (max-width: 568px)
 {
@@ -94,6 +96,7 @@
   .page-title {font-size: 18px;padding-left: 0; padding-right: 0;}
   .box {padding: 25px;}
   .inner_box_body { padding: 20px; }
+  .organization_right.people .col-sm-4 {width: 100%;}
 }
 @media screen and (max-width: 375px)
 {
